@@ -1,0 +1,19 @@
+<style>
+body{}
+header{font-size: 48px;text-align: center;color: white;background-color:#404040;}
+body{background-image: url(gambar.jpg);background-size: contain;}
+h1{font-size: 20px;text-align: center;line-height: 0px;}
+h2{
+  font-size: 50px;
+  padding-left: 50px;
+  border-style: groove;
+  border-color: orange;
+  border-width: medium;
+}
+h3{font-size: 64px;text-align: right;padding-right: 80px;}
+h4{text-align: right;}
+h5{text-align: right;padding-right: 25px;font-size: 0px}
+p{font-size: 21px;color: white}
+fieldset{font-weight: bolder;color: white;}
+footer{text-align: right;}
+</style>
